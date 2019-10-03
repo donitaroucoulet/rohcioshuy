@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phohlahtu.aaron-rothschild.com/sitemap.xml
